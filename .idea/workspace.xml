@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d95dc482-77cc-44ee-9cbb-13c008282a38" name="Default Changelist" comment="fix edit">
+      <change afterPath="$PROJECT_DIR$/.idea/Britecheck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/SCRIPTBL-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/SCRIPTBL-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/SCRIPTBL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/SCRIPTBL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/SCRIPTBL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/SCRIPTBL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/SCRIPTBL/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/app.df3ccf06.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-0ab9aa56.bd453e8b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-15324750.501b58bd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-296b930d.e7083407.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-2d79539e.abbe7727.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-309e2d41.82f91157.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-32e7ccdd.a89a48e1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-3c226fd2.eae174a1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-4618c715.b802985d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-4923019c.166f4541.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-4f6466ba.85e964b6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-5dfd9ffe.8ddd8dd4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-5f68636d.e7083407.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-6a25436d.6f907001.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-7796d4dc.b5f23f44.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-7f66024a.a3677acd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-b867aca0.c56f8479.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-c1027ae4.540603b8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-c8190d7e.9196ef73.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-c81fc566.a45f630b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-d6b42374.d59c8198.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-e619a058.ac6459a8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/chunk-vendors.7d698daa.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sourcesanspro.173382e6.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bigphotos.d46b3166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/boxes.eea9c01d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/delete.f81e0779.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/edit.56e9f4b5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/folder.1c75d821.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/folder.5b8cc5dd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/image.421c82f1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/loading.fd42f6cb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/money.d3175324.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pencil2.0f2d205c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/signin-signup.63ad3ba7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/app.64c99185.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/app.64c99185.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-0ab9aa56.ca17ee30.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-0ab9aa56.ca17ee30.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-15324750.ccb0b397.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-15324750.ccb0b397.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-296b930d.54aeda50.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-296b930d.54aeda50.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0ac059.246f6a8a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0ac059.246f6a8a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0bdedb.77bd6a30.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0bdedb.77bd6a30.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0c04f2.e96c5f61.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0c04f2.e96c5f61.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0d3dcd.746d22b7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0d3dcd.746d22b7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0d7e59.7235134c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0d7e59.7235134c.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0efc9e.9face784.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d0efc9e.9face784.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d79539e.5b01f057.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-2d79539e.5b01f057.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-309e2d41.11411f7c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-309e2d41.11411f7c.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-32e7ccdd.3ff85be0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-32e7ccdd.3ff85be0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-3c226fd2.37f662ab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-3c226fd2.37f662ab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-4618c715.6e46402d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-4618c715.6e46402d.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-4923019c.12bee368.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-4923019c.12bee368.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-4f6466ba.a2c546f8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-4f6466ba.a2c546f8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-5dfd9ffe.282dde80.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-5dfd9ffe.282dde80.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-5f68636d.879278a6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-5f68636d.879278a6.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-6a25436d.99567b65.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-6a25436d.99567b65.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-7796d4dc.ecc3ef46.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-7796d4dc.ecc3ef46.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-7f66024a.0f41dfcb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-7f66024a.0f41dfcb.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-b867aca0.b9bfbca7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-b867aca0.b9bfbca7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-c1027ae4.5f5f5434.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-c1027ae4.5f5f5434.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-c8190d7e.fa5f0d7a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-c8190d7e.fa5f0d7a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-c81fc566.63ab7611.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-c81fc566.63ab7611.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-d6b42374.6bbbfa48.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-d6b42374.6bbbfa48.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-e619a058.4d069d95.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-e619a058.4d069d95.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-vendors.5c7522b4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/chunk-vendors.5c7522b4.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/SCRIPTBL-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/SCRIPTBL-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/SCRIPTBL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/SCRIPTBL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/SCRIPTBL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/SCRIPTBL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/SCRIPTBL/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/addButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/arrow-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/bigphotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/cropped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/minlevel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/price.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/quantity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/rotate-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/rotate-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/wrapper_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/zoom-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/addnewitems/zoom-out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/arrow-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bigphotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/10051592-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/bacham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/clone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/deleteall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/dividervertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/dropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/dropdownblue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/dropdownsolid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/dropup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/gridview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/inventory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/macbook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/macbook1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/movetofolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/threedots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/filter/wrapper_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/glumlist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/Inventory.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/boxes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/delivery-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/help.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/history.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/import.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/money.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/pencil2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/plus2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/settings.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/sort-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/sort-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/svg/users.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/signin-signup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/minlevel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/price.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/quantity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/topbar/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/sourcesanspro/sourcesanspro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/sourcesanspro/sourcesanspro.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/sourcesanspro/sourcesanspro.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/sourcesanspro/sourcesanspro.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/EventBus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/vuetify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/inventory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/inventory1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/mainRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/userRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/apiservice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/inventory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/inventory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ActivityHistory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/HelpCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Import.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/NotFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Policy.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Tags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/UserSettings.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Users.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/ForgotPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/ForgotPasswordForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/ResetPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/SetPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/add-new-items/IncreaseNumber.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/add-new-items/IncreaseNumber.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/add-new-items/VueImagePicker.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/add-new-items/VueImagePicker.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customs/Tags.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/customs/Tags.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customs/dropdown/DropDown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/customs/dropdown/DropDown.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/inventory/AddNewItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/inventory/AddNewItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/inventory/AllItems.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/inventory/AllItems.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/inventory/AvailableInventory.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/inventory/AvailableInventory.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/inventory/Categories1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/inventory/Categories1.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-968729712">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/upload-image/VueUploadMultipleImage.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4320">
+              <caret line="298" selection-start-line="298" selection-end-line="298" />
+              <folding>
+                <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#svg#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#span#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/inventory/EditFolder.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
+              <folding>
+                <element signature="e#9027#10091#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/modules/inventory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1680">
+              <caret line="169" column="25" selection-start-line="169" selection-start-column="25" selection-end-line="169" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#234#250#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/inventory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="26" column="51" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>openGallery</find>
+      <find>FileReader</find>
+      <find>editImage</find>
+      <find>image-icon-edit</find>
+      <find>idEdit</find>
+      <find>editFieldChange</find>
+      <find>temp/</find>
+      <find>/add</find>
+      <find>folderToSubmit.ima</find>
+      <find>folderToSubmit.image</find>
+      <find>folderToSubmit.images</find>
+      <find>uploadImageSuccess</find>
+      <find>imageFormData</find>
+      <find>uploadImage</find>
+      <find>filelis</find>
+      <find>folderToSubmit</find>
+      <find>this.uploadImage</find>
+      <find>tmpPayload</find>
+      <find>upload</find>
+      <find>uploadima</find>
+      <find>images</find>
+      <find>description</find>
+      <find>temp</find>
+      <find>should be string</find>
+      <find>validate()</find>
+      <find>validate</find>
+      <find>editFolder</find>
+      <find>payload.images</find>
+      <find>payload</find>
+      <find>dd</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/src/store/modules/user.js" />
+        <option value="$PROJECT_DIR$/src/services/user.js" />
+        <option value="$PROJECT_DIR$/src/components/user/LoginForm.vue" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/config/index.js" />
+        <option value="$PROJECT_DIR$/src/components/upload-image/VueUploadMultipleImage.vue" />
+        <option value="$PROJECT_DIR$/src/views/inventory/CreateFolder.vue" />
+        <option value="$PROJECT_DIR$/src/store/modules/inventory.js" />
+        <option value="$PROJECT_DIR$/src/views/inventory/EditFolder.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/InventorySection.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Britecheck" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d95dc482-77cc-44ee-9cbb-13c008282a38" name="Default Changelist" comment="" />
+      <created>1608106858136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608106858136</updated>
+      <workItem from="1608106859392" duration="12887000" />
+      <workItem from="1608198964664" duration="236000" />
+      <workItem from="1608199213794" duration="289000" />
+      <workItem from="1608200003000" duration="685000" />
+      <workItem from="1612601142667" duration="221000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix edit">
+      <created>1608123593374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608123593374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1608200689228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608200689228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14318000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26004228" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923833" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21204819" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix edit" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3959" lean-forward="true" selection-start-column="3959" selection-end-column="3959" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/UserSettings.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/user/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/user/LoginForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="211" column="24" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="57" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/modules/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/apiservice.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/views/inventory/CreateFolder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="247" column="44" lean-forward="true" selection-start-line="247" selection-start-column="44" selection-end-line="247" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/upload-image/VueUploadMultipleImage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="298" selection-start-line="298" selection-end-line="298" />
+          <folding>
+            <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#svg#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#span#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/modules/inventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="169" column="25" selection-start-line="169" selection-start-column="25" selection-end-line="169" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#234#250#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/inventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/inventory/EditFolder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="e#9027#10091#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
